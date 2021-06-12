@@ -1,0 +1,13 @@
+C:\Users\diogo\source\repos\Aula-07\Aula-07\bin\Debug\netcoreapp3.1\Aula-07.exe
+C:\Users\diogo\source\repos\Aula-07\Aula-07\bin\Debug\netcoreapp3.1\Aula-07.deps.json
+C:\Users\diogo\source\repos\Aula-07\Aula-07\bin\Debug\netcoreapp3.1\Aula-07.runtimeconfig.json
+C:\Users\diogo\source\repos\Aula-07\Aula-07\bin\Debug\netcoreapp3.1\Aula-07.runtimeconfig.dev.json
+C:\Users\diogo\source\repos\Aula-07\Aula-07\bin\Debug\netcoreapp3.1\Aula-07.dll
+C:\Users\diogo\source\repos\Aula-07\Aula-07\bin\Debug\netcoreapp3.1\Aula-07.pdb
+C:\Users\diogo\source\repos\Aula-07\Aula-07\obj\Debug\netcoreapp3.1\Aula-07.csproj.AssemblyReference.cache
+C:\Users\diogo\source\repos\Aula-07\Aula-07\obj\Debug\netcoreapp3.1\Aula-07.AssemblyInfoInputs.cache
+C:\Users\diogo\source\repos\Aula-07\Aula-07\obj\Debug\netcoreapp3.1\Aula-07.AssemblyInfo.cs
+C:\Users\diogo\source\repos\Aula-07\Aula-07\obj\Debug\netcoreapp3.1\Aula-07.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\Aula-07\Aula-07\obj\Debug\netcoreapp3.1\Aula-07.dll
+C:\Users\diogo\source\repos\Aula-07\Aula-07\obj\Debug\netcoreapp3.1\Aula-07.pdb
+C:\Users\diogo\source\repos\Aula-07\Aula-07\obj\Debug\netcoreapp3.1\Aula-07.genruntimeconfig.cache

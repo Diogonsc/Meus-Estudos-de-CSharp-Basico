@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-22-Estrutura-Repetitiva-PARA", "Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA.csproj", "{0B007FFD-21F8-4C35-9455-381887CCF555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B007FFD-21F8-4C35-9455-381887CCF555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B007FFD-21F8-4C35-9455-381887CCF555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B007FFD-21F8-4C35-9455-381887CCF555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B007FFD-21F8-4C35-9455-381887CCF555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1040DC1F-C9ED-48F5-AD50-DB44579B14A2}
+	EndGlobalSection
+EndGlobal

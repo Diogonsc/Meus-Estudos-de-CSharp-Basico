@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula-25-Estrutura-Repetitiva-Faça-Enquanto/1.0.0": {
+        "runtime": {
+          "Aula-25-Estrutura-Repetitiva-Faça-Enquanto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula-25-Estrutura-Repetitiva-Faça-Enquanto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

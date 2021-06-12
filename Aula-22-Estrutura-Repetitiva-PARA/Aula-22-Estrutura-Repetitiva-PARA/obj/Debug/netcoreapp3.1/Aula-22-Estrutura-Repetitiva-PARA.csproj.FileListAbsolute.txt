@@ -1,0 +1,13 @@
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\bin\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.exe
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\bin\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.deps.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\bin\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\bin\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\bin\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\bin\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\obj\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\obj\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\obj\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\obj\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\obj\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\obj\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-22-Estrutura-Repetitiva-PARA\Aula-22-Estrutura-Repetitiva-PARA\obj\Debug\netcoreapp3.1\Aula-22-Estrutura-Repetitiva-PARA.genruntimeconfig.cache

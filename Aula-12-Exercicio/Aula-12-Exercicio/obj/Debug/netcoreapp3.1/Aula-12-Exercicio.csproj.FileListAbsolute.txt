@@ -1,0 +1,13 @@
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\bin\Debug\netcoreapp3.1\Aula-12-Exercicio.exe
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\bin\Debug\netcoreapp3.1\Aula-12-Exercicio.deps.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\bin\Debug\netcoreapp3.1\Aula-12-Exercicio.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\bin\Debug\netcoreapp3.1\Aula-12-Exercicio.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\bin\Debug\netcoreapp3.1\Aula-12-Exercicio.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\bin\Debug\netcoreapp3.1\Aula-12-Exercicio.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\obj\Debug\netcoreapp3.1\Aula-12-Exercicio.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\obj\Debug\netcoreapp3.1\Aula-12-Exercicio.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\obj\Debug\netcoreapp3.1\Aula-12-Exercicio.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\obj\Debug\netcoreapp3.1\Aula-12-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\obj\Debug\netcoreapp3.1\Aula-12-Exercicio.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\obj\Debug\netcoreapp3.1\Aula-12-Exercicio.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-12-Exercicio\Aula-12-Exercicio\obj\Debug\netcoreapp3.1\Aula-12-Exercicio.genruntimeconfig.cache

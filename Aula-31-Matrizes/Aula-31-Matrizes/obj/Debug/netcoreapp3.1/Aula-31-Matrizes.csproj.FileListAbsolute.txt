@@ -1,0 +1,13 @@
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\bin\Debug\netcoreapp3.1\Aula-31-Matrizes.exe
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\bin\Debug\netcoreapp3.1\Aula-31-Matrizes.deps.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\bin\Debug\netcoreapp3.1\Aula-31-Matrizes.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\bin\Debug\netcoreapp3.1\Aula-31-Matrizes.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\bin\Debug\netcoreapp3.1\Aula-31-Matrizes.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\bin\Debug\netcoreapp3.1\Aula-31-Matrizes.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\obj\Debug\netcoreapp3.1\Aula-31-Matrizes.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\obj\Debug\netcoreapp3.1\Aula-31-Matrizes.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\obj\Debug\netcoreapp3.1\Aula-31-Matrizes.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\obj\Debug\netcoreapp3.1\Aula-31-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\obj\Debug\netcoreapp3.1\Aula-31-Matrizes.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\obj\Debug\netcoreapp3.1\Aula-31-Matrizes.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-31-Matrizes\Aula-31-Matrizes\obj\Debug\netcoreapp3.1\Aula-31-Matrizes.genruntimeconfig.cache

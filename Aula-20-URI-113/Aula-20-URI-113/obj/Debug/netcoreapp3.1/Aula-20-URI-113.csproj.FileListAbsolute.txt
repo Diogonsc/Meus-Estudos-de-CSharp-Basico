@@ -1,0 +1,13 @@
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\bin\Debug\netcoreapp3.1\Aula-20-URI-113.exe
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\bin\Debug\netcoreapp3.1\Aula-20-URI-113.deps.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\bin\Debug\netcoreapp3.1\Aula-20-URI-113.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\bin\Debug\netcoreapp3.1\Aula-20-URI-113.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\bin\Debug\netcoreapp3.1\Aula-20-URI-113.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\bin\Debug\netcoreapp3.1\Aula-20-URI-113.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\obj\Debug\netcoreapp3.1\Aula-20-URI-113.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\obj\Debug\netcoreapp3.1\Aula-20-URI-113.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\obj\Debug\netcoreapp3.1\Aula-20-URI-113.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\obj\Debug\netcoreapp3.1\Aula-20-URI-113.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\obj\Debug\netcoreapp3.1\Aula-20-URI-113.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\obj\Debug\netcoreapp3.1\Aula-20-URI-113.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-20-URI-113\Aula-20-URI-113\obj\Debug\netcoreapp3.1\Aula-20-URI-113.genruntimeconfig.cache

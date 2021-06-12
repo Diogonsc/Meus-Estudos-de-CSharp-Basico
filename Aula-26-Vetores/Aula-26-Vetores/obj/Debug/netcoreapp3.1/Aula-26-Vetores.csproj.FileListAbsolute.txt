@@ -1,0 +1,13 @@
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\bin\Debug\netcoreapp3.1\Aula-26-Vetores.exe
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\bin\Debug\netcoreapp3.1\Aula-26-Vetores.deps.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\bin\Debug\netcoreapp3.1\Aula-26-Vetores.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\bin\Debug\netcoreapp3.1\Aula-26-Vetores.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\bin\Debug\netcoreapp3.1\Aula-26-Vetores.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\bin\Debug\netcoreapp3.1\Aula-26-Vetores.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\obj\Debug\netcoreapp3.1\Aula-26-Vetores.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\obj\Debug\netcoreapp3.1\Aula-26-Vetores.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\obj\Debug\netcoreapp3.1\Aula-26-Vetores.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\obj\Debug\netcoreapp3.1\Aula-26-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\obj\Debug\netcoreapp3.1\Aula-26-Vetores.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\obj\Debug\netcoreapp3.1\Aula-26-Vetores.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-26-Vetores\Aula-26-Vetores\obj\Debug\netcoreapp3.1\Aula-26-Vetores.genruntimeconfig.cache

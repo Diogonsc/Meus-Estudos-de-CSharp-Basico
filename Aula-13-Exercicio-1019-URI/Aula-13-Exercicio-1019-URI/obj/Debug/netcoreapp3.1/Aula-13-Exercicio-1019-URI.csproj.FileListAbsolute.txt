@@ -1,0 +1,13 @@
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\bin\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.exe
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\bin\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.deps.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\bin\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\bin\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\bin\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\bin\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\obj\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\obj\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\obj\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\obj\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\obj\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\obj\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-13-Exercicio-1019-URI\Aula-13-Exercicio-1019-URI\obj\Debug\netcoreapp3.1\Aula-13-Exercicio-1019-URI.genruntimeconfig.cache

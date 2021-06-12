@@ -1,0 +1,13 @@
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\bin\Debug\netcoreapp3.1\Aula-30-foreach.exe
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\bin\Debug\netcoreapp3.1\Aula-30-foreach.deps.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\bin\Debug\netcoreapp3.1\Aula-30-foreach.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\bin\Debug\netcoreapp3.1\Aula-30-foreach.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\bin\Debug\netcoreapp3.1\Aula-30-foreach.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\bin\Debug\netcoreapp3.1\Aula-30-foreach.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\obj\Debug\netcoreapp3.1\Aula-30-foreach.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\obj\Debug\netcoreapp3.1\Aula-30-foreach.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\obj\Debug\netcoreapp3.1\Aula-30-foreach.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\obj\Debug\netcoreapp3.1\Aula-30-foreach.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\obj\Debug\netcoreapp3.1\Aula-30-foreach.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\obj\Debug\netcoreapp3.1\Aula-30-foreach.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-30-foreach\Aula-30-foreach\obj\Debug\netcoreapp3.1\Aula-30-foreach.genruntimeconfig.cache

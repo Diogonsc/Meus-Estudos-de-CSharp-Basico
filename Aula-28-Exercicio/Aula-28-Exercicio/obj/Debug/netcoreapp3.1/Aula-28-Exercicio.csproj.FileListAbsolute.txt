@@ -1,0 +1,13 @@
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\bin\Debug\netcoreapp3.1\Aula-28-Exercicio.exe
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\bin\Debug\netcoreapp3.1\Aula-28-Exercicio.deps.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\bin\Debug\netcoreapp3.1\Aula-28-Exercicio.runtimeconfig.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\bin\Debug\netcoreapp3.1\Aula-28-Exercicio.runtimeconfig.dev.json
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\bin\Debug\netcoreapp3.1\Aula-28-Exercicio.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\bin\Debug\netcoreapp3.1\Aula-28-Exercicio.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\obj\Debug\netcoreapp3.1\Aula-28-Exercicio.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\obj\Debug\netcoreapp3.1\Aula-28-Exercicio.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\obj\Debug\netcoreapp3.1\Aula-28-Exercicio.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\obj\Debug\netcoreapp3.1\Aula-28-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\obj\Debug\netcoreapp3.1\Aula-28-Exercicio.dll
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\obj\Debug\netcoreapp3.1\Aula-28-Exercicio.pdb
+C:\Users\diogo\OneDrive\Documentos\DIOGO-ESTUDOS\C#\Aula-28-Exercicio\Aula-28-Exercicio\obj\Debug\netcoreapp3.1\Aula-28-Exercicio.genruntimeconfig.cache
